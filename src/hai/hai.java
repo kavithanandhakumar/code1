@@ -8,6 +8,7 @@ public class hai {
 		System.out.println("new offer");
 		System.out.println("100");
 		System.out.println("testing poll scm");
+		System.out.println("next");
 
 	}
 
